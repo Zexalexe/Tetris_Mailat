@@ -654,7 +654,7 @@ void drawCredits(){
     selectedOption = 0;
     setTextStyle(&highlight);
 
-    int y = (SCREEN_HEIGHT - CREDITS_COUNT ) / 2 + 300;
+    int y = (SCREEN_HEIGHT - CREDITS_COUNT ) / 2 + 250;
     int x = SCREEN_WIDTH / 2;
 
         drawText(
